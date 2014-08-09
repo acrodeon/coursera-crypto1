@@ -1,4 +1,5 @@
 coursera-crypto1
 ================
 
-Programming Questions for Algorithms: Design and Analysis, Part 1  
+## Programming Questions for Cryptography I, Part 1 
+### by Dan Boneh
